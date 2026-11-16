@@ -1,0 +1,1 @@
+$(cat /workspace/artifacts/threejs-fps/serve.ts)
